@@ -1,0 +1,8 @@
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\Proyecto\Proyecto\obj\Debug\Proyecto.MainForm.resources
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\vdgp_\OneDrive\Escritorio\QCEI\sem Algoritmia\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
